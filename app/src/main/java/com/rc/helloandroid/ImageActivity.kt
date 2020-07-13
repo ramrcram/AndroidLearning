@@ -23,6 +23,8 @@ class ImageActivity : AppCompatActivity() {
             }
 
         }
+
+        
         imageView2.scaleType = ImageView.ScaleType.FIT_XY
     }
 }
